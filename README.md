@@ -1,5 +1,5 @@
-# my-taxi-service
-### Description:
+# :taxi: my-taxi-service :taxi:
+### :oncoming_taxi: Description:
 Servlet pet project from mate academy
 studying. Main functional allow to work
 with mySQL DB, create Driver, Car and Manufacturer.
@@ -8,7 +8,7 @@ to list all drivers, cars, manufacturers, delete,
 update, give list of cars by driver login in each
 session. There is also authentication, with login and
 ability to logout.
-### Project structure:
+### :oncoming_taxi: Project structure:
 
 java: -> taxi:
 - controller
@@ -26,17 +26,19 @@ resources:
 webapp: 
 - web-inf
 - web.xml
-### Used technologies
+### :oncoming_taxi: Used technologies
 Servlets, TomCat 9, Java 11, Maven
-### Link to Heroku project
+### :oncoming_taxi: Link to Heroku project
 Is coming soon...
-### Installing the project
+### :oncoming_taxi: Installing the project
 - fork the project
 - open it in IDEA
 - pull all changes
 - init db from init_db.sql
 - check the app ;)
-### Roadmap:
+### :oncoming_taxi: Roadmap:
 - implement logger
 - create unit tests
+
+:ukraine:
 
