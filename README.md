@@ -40,5 +40,6 @@ Is coming soon...
 - implement logger
 - create unit tests
 
-:ukraine:
+with :heart: from :ukraine:
+
 
