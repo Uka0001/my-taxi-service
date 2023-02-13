@@ -1,13 +1,6 @@
 # :taxi: my-taxi-service :taxi:
 ### :oncoming_taxi: Description:
-Servlet pet project.
-Main functional allow to create Driver, Car and Manufacturer.
-The app also gives ability to connect cars with drivers,
-to list all drivers, cars, manufacturers, delete,
-update, give list of cars by driver login in each
-session. There is also authentication, with login and
-ability to logout by Driver and ability to register
-new Driver before login.
+Servlet pet project. The main function allows the creation Driver, Car, and Manufacturer. The app also gives the ability to connect cars with drivers, list all drivers, cars, and manufacturers, delete, update, and give the list of cars by driver login in each session. There is also authentication, with login and the ability to log out by Driver and the ability to register a new Driver before login.
 ### :oncoming_taxi: Project structure:
 Used 3 layered architecture (Controller -> Service -> Dao)
 ### :oncoming_taxi: Used technologies
